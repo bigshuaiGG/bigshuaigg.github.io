@@ -15,11 +15,11 @@
  >
  这是我的第一篇博客。
  
-  物理机系统：Windows7x64
- 刷入系统：OSMC17.4
- 刷入的硬件：Raspberry Pi 3
- 读卡器：1个
- 空白内存卡： 16G TF(Micro SD)Class 10 一张
+ 物理机系统：Windows7x64</br>
+ 刷入系统：OSMC17.4</br>
+ 刷入的硬件：Raspberry Pi 3</br>
+ 读卡器：1个</br>
+ 空白内存卡： 16G TF(Micro SD)Class 10 一张</br>
  
  进入正题。
  一、什么是Kodi
