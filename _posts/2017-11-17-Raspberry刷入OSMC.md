@@ -15,16 +15,16 @@
  >
  这是我的第一篇博客。
  
- 物理机系统：Windows7x64</br>
- 刷入系统：OSMC17.4</br>
- 刷入的硬件：Raspberry Pi 3</br>
- 读卡器：1个</br>
- 空白内存卡： 16G TF(Micro SD)Class 10 一张</br>
+ 物理机系统：Windows7x64   
+ 刷入系统：OSMC17.4</br>    
+ 刷入的硬件：Raspberry Pi 3   
+ 读卡器：1个   
+ 空白内存卡： 16G TF(Micro SD)Class 10 一张
  
  进入正题。
- 一、什么是Kodi
+ #一、什么是Kodi
      Kodi是一个优秀的自由和开源的（GPL）媒体中心软件，最初为Xbox而开发，可以运行在Linux、OSX、Windows、Android4.0系统。 
- 二、什么是OSMC
+ #二、什么是OSMC
      OSMC是一个自由和开放源代码的媒体中心，服务于广大群众，它是基于KODI项目的。
      我们如果在树莓派上搭建一个媒体中心为了方便和性能最优推荐在树莓派上刷入OSMC。
     首先进入<a href="https://osmc.tv/download/">OSMC官网</a>下载磁盘映像，我这里是Raspberry Pi3选择对应的文件，将得到的压缩包解压
